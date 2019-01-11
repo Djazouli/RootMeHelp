@@ -10,6 +10,7 @@ Let's give curl a try.
 ```bash
 curl -v http://challenge01.root-me.org/web-serveur/ch2/
 ```
+We have the same result (Obviously)
 
 Let's add a header user-agent:
 
