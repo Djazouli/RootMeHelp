@@ -7,6 +7,10 @@ Also, hacking is tough. You will sometimes find yourself stuck for a few days, e
 
 Of course, these are my solutions, and sometimes, like any human being, I am stuck. So there is no solution for certain exercises (a lot currently). So if you have more experience, feel free to fork my repo, or create your own. The goal is to share knowledge, not to earn some of those precious github's stars.
 
-The list in each directory has been automatically created by parser.py, feel free to use it for your own usage. To do that, just copy the content of any https://www.root-me.org/en/Challenges/CATEGORY/ page in a file (by default it is reading 'web-server' file), create a 'readme.md' file, and launch python3 parser.py.
+The list in each directory has been automatically created by parser.py, feel free to use it for your own usage. To do that, just copy the content of any https://www.root-me.org/en/Challenges/CATEGORY/ page in a file (by default it is reading 'web-server' file), create a 'readme.md' file, and launch
+
+```bash
+python3 parser.py
+```
 
 It should automatically append the 'readme.md' file with info like "NameOfChallenge : Done/Not Done" for this category.
