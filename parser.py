@@ -12,4 +12,4 @@ with open('readme.md','a+') as readme:
             status = 'Done'
         td = tds[1]
         c = td.find_all(text=True)[1]
-        readme.write(c + ' : ' + status + '\n')
+        readme.write(c + ' : ' + status + '\n\n')
