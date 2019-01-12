@@ -17,7 +17,7 @@ newline failed to authenticate.
 
 ```
 It worked !
-Now, let's inject "admin authenticated". By following the same procedure, we can go to: [http://challenge01.root-me.org/web-serveur/ch14/?username=admin authenticated.%0D%0Anewline&password=password](http://challenge01.root-me.org/web-serveur/ch14/?username=admin authenticated.%0D%0Anewline&password=password)
+Now, let's inject "admin authenticated.". By following the same procedure, we can go to: [http://challenge01.root-me.org/web-serveur/ch14/?username=admin authenticated.%0D%0Anewline&password=password](http://challenge01.root-me.org/web-serveur/ch14/?username=admin authenticated.%0D%0Anewline&password=password)
 
 At the bottom of the page, we can see:
 
