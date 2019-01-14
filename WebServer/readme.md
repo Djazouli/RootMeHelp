@@ -48,9 +48,9 @@ Local File Inclusion : Done
 
 Local File Inclusion - Double encoding : Done
 
-PHP - Loose Comparison : Not Done
+PHP - Loose Comparison : Done
 
-PHP preg_replace() : Not Done
+PHP preg_replace() : Done
 
 PHP type juggling : Not Done
 
