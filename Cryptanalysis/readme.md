@@ -1,12 +1,12 @@
-Encoding - ASCII : Not Done
+Encoding - ASCII : Done
 
-Encoding - UU : Not Done
+Encoding - UU : Done
 
-Hash - Message Digest 5 : Not Done
+Hash - Message Digest 5 : Done
 
-Hash - SHA-2 : Not Done
+Hash - SHA-2 : Done
 
-Shift cipher : Not Done
+Shift cipher : Done
 
 Pixel Madness : Not Done
 

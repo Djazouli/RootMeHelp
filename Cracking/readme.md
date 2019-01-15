@@ -1,6 +1,6 @@
-ELF - 0 protection : Not Done
+ELF - 0 protection : Done
 
-ELF - x86 Basic : Not Done
+ELF - x86 Basic : Done
 
 PE - 0 protection : Not Done
 

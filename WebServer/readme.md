@@ -52,11 +52,11 @@ PHP - Loose Comparison : Done
 
 PHP preg_replace() : Done
 
-PHP type juggling : Not Done
+PHP type juggling : Done
 
-Remote File Inclusion : Not Done
+Remote File Inclusion : Done
 
-Server-side Template Injection : Not Done
+Server-side Template Injection : Done
 
 SQL injection - authentication : Not Done
 
