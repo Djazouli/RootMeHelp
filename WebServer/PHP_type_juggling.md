@@ -25,5 +25,5 @@ curl -X POST "http://challenge01.root-me.org/web-serveur/ch44/auth.php" --data '
 which returns:
 
 ```
-{"status":"Access granted! The validation password is: DontForgetPHPL00seComp4r1s0n"}
+{"status":"Access granted! The validation password is: FLAG"}
 ```
